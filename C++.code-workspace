@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "../../C++"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../Html javascript"
+		},
+		{
+			"path": "../../../../../../wamp64/www/PHP"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "HTMLS",
+		"files.associations": {
+			"iostream": "cpp",
+			"ostream": "cpp"
+		}
+	}
+}
